@@ -1,7 +1,1 @@
-回声“# LiKING002”>> README.md
-git init
-git add README.md
-git commit -m“第一次提交”
-git分支-M主
-git remote add origin https://github.com/LiKING002/LiKING002.git
-git push-u origin main
+![985B28E2-5F6C-4641-8381-EC6EB6012400](https://user-images.githubusercontent.com/67863453/132377240-902099b1-1968-48e7-9bfd-5280de427007.jpeg)
